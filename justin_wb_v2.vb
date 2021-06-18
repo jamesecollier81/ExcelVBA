@@ -1,8 +1,6 @@
 'This is intended to take the file generated from the CRM and split it evenly among the number of reps
 'declared by the user group. These files can then be uploaded as source lists to the various CRM
 'platforms for leads.
-'Requested: Justin Meldrum jmeldrum@jumpcrew.com
-'Author: James Collier jcollier@jumpcrew.com
 'Date: 01Jun2021
 '
 Option Explicit
